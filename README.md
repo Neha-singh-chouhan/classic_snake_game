@@ -13,13 +13,13 @@ Colorful Graphics: Delight in vibrant visuals that enhance your gaming experienc
 Here are some screenshots showcasing the fun of our Snake Game:
 
 Main Menu
-<!-- Replace with actual main menu image link --> Start your adventure with our engaging main menu!
+ Start your adventure with our engaging main menu!
 
 Gameplay
-<!-- Replace with actual gameplay image link --> Navigate your snake and eat food while avoiding walls and your own tail!
+Navigate your snake and eat food while avoiding walls and your own tail!
 
 Score Display
-<!-- Replace with actual score display image link --> Keep track of your high scores and challenge your friends!
+ Keep track of your high scores and challenge your friends!
 
 🛠️ Technologies Used
 Frontend: HTML, CSS, JavaScript
@@ -28,7 +28,7 @@ Game Library: p5.js (or any other library you used)
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/yourusername/snake-game.git
+git clone https://github.com/Neha singh chouhan/snake-game.git
 Navigate to the Project Directory:
 bash
 Copy code
@@ -44,7 +44,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 🎥 Watch the Game in Action
 Check out this video to see the Snake Game in action!
 
-<!-- Replace with your actual video link -->
 
 🙌 Acknowledgments
 A huge thank you to all contributors and the open-source community for your support and inspiration!
